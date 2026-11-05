@@ -1,8 +1,24 @@
 # Decisions
 
-*Every decision you make this term, with a date and a reason. Your AI log lives here too.*
+**Week 2 Gap Closure: 11/4/2026**
 
-Replace this placeholder in Week 1. Put something real in it — your backlog item and why you picked it is a decision like any other.
+## Gap 1: The missing number
+-The Gap: The number of self reported voids are uncounted.
+-What I found: | Line accidental void reports | 1 to 3 per location per month, self-reported | Certainly undercounted. Nobody files a ticket about their own mistake |
+-Source: Under 'what we measure'.
+-What it changes: We understand that the number of voids in a shift or day arene't accurate due to failed self reporting by employees.
+
+## Gap 2: The solution disguised as a problem
+-What the ticket asks for: The tickets asks for stats on the number of accidental, self-reported voids.
+-The problem underneath it: Employees aren;t self reporting accidental voids.
+-How I know they're different: when logging a ticket, timestamp, user, and tcket state are noted. Employees aren't logging the nformation correctly.
+-Does the proposed solution address the real problem: Partly, we acknowledge that the voids aren't being logged properly but a solution hasn't been created.
+
+## Gap 3:
+-The constraint: A void is unrecoverable with tag, .rail-ticket--danger. A dialogue box is presented with a dialogue box, recoverable actions have an undo button but not dialogue boxes. There is no sign-in on pass displays.
+-Where I found it: 'The four patterns' -> ticket pattern and confirmation destruction.
+-Why the ticket doesn't mention it: the ticket proposes the information, it doesn't provide the documentation to solve the issue.
+-what it rules out: Toast feedback from voids because Toast aren't on the line. User attributions because there is no sign-on. Adding a control to void tickets. A new backend service for logging voids.
 
 **What goes in:** decisions, the gaps you closed and how, what you declined to do, what you cut, system decisions, anything you re-framed later, and your AI log. **What doesn't:** raw findings. Those go in [EVIDENCE.md](EVIDENCE.md).
 
@@ -29,3 +45,5 @@ For an AI entry, same shape: which tool, what for, what you kept, what you chang
 **Why:**
 **What I gave up:**
 **What would change this:**
+
+
