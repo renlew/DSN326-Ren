@@ -67,9 +67,64 @@ Script:
 
 ## Sessions
 
-### P1 — YYYY-MM-DD, round [1/2]
+### P1 — 2026-11-10, round [1/2]
 
-**Consent:** 
-**Setup:** 
-**Task 1:** 
-**Task 2:** 
+**Observation sheet**
+One per participant.
+
+**Participant: P1    Date: 11.10.26    Device: laptop    Role card used: HEARD-163**
+
+Task | Completed? | Time | Where they stuck | What they said |
+Update guest's delivery address in the system immediately. | Not completed | 10 min | Stuck on ask. Couldn't find guest's information. | "I'm not sure what I'm looking at or where to click." | 
+Party of 10 needs to be reduced to party of 7 for 11.28. | Not completed | 2 min | Stuck on ask.| "This task can't be done here. Do I need to click somewhere else?" |
+Need Chicken Enchiladas with no beans to-go by 4.58pm. | Not completed | 5 min | Can't complete the task. | "I don't see Chicken Enchiladas but I see where I can void orders. I don't think I can place orders here." |
+Table 2 needs 1 Margarita pizza, no basil, and 3 Grilled Salmons by 12.10pm. | Not complete | 1 min | Can't complete the task. | "This is the same as before." |
+Extra side of rice to table 2 by 12.20pm. | Not complete | 1 min | Can't complete the task. | "This is the same as before." |
+
+**Three moments worth quoting:**
+"I'm not sure what I'm looking at or where to click."
+"This task can't be done here. Do I need to click somewhere else?"
+"I don't see Chicken Enchiladas but I see where I can void orders. I don't think I can place orders here."
+
+**One thing that surprised me:**
+How much did the role card carry? 
+The role card didn't carry much for the participant. They focused more on the tasks than the scenario presented. 
+
+**Two questions at the end**
+Ask these. Nothing else.
+
+"What were you expecting to happen there?"
+Participant expected to void an order or ingredient.
+Participant expected to place an order.
+Participant expected a straight forward application that corresponded with the tasks being asked. 
+"If you were doing this on your own, would you have finished?"
+No
+
+
+**Participant: P2    Date: 2026.11.11    Device: laptop    Role card used: HEARD-163**
+
+Task | Completed? | Time | Where they stuck | What they said |
+Update guest's delivery address in the system immediately. | Not completed | 13 min | Stuck on ask. Unsure why they can't find the profile. | "I'm not seeing any names or delivery indications..." |
+Party of 10 needs to be reduced to party of 7 for 11.28. | Not complete | 5 min | Stuck on covers in terminal. | "I'm in the terminal and I see what I assume to be party size but I can't interact with it?" |
+Need Chicken Enchiladas with no beans to-go by 4.58pm. | Not complete | 6 min | Stuck on void in expo. | "I can void whole orders but not individual ingredients." |
+Table 2 needs 1 Margarita pizza, no basil, and 3 Grilled Salmons by 12.10pm. | Not complete | 1 min | Stuck on ask. | "There is no place to take an order." |
+Extra side of rice to table 2 by 12.20pm. | Not complete | 1 min | Stuck on ask. | "Yeah, I still can't change the order." |
+
+**Three moments worth quoting:**
+"I'm not seeing any names or delivery indications..."
+"I'm in the terminal and I see what I assume to be party size but I can't interact with it?"
+"There is no place to take an order."
+
+**One thing that surprised me:**
+How much did the role card carry? 
+The role card didn't carry much for the participant. They focused more on the tasks than the scenario presented. 
+
+**Two questions at the end**
+Ask these. Nothing else.
+
+"What were you expecting to happen there?"
+Participant expected defined areas for pickup and delivery.
+Participant expected more information would be provided on the screen.
+Participant expected a customer profile with order.
+"If you were doing this on your own, would you have finished?"
+No
