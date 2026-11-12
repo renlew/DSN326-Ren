@@ -63,7 +63,7 @@ Script:
 -Need Chicken Enchilladas with no beans to-go by 4.58pm.
 -Table 2 needs 1 Margarita pizza, no basil, and 3 Grilled Salmons by 12.10pm.
 -Extra side of rice to table 2 by 12.20pm.
--------I chose these scripts because i wanted to test in house ordering and order updates.
+-------I chose these scripts because I wanted to test in house ordering and order updates.
 
 ## Sessions
 
@@ -128,3 +128,27 @@ Participant expected more information would be provided on the screen.
 Participant expected a customer profile with order.
 "If you were doing this on your own, would you have finished?"
 No
+
+
+
+## Pre-Register the Number
+
+## Heard-163
+
+**Name one Measure**
+Participants can void an item in an order rather than voiding the whole order for line.
+
+**Current Number**
+P1: Couldn't void (0)
+P2: Couldn't void (0)
+
+**Set the Threshold**
+Success threshold: Measured by participant's ability to void an ingredient from an order.
+Failure threshold: Determined by how the participant doesn't try to void an item or by the participant voiding a whole order.
+
+**Confounds**
+1. Button options at top of screen to edit order information on line without adding unnecessary clutter to current terminal UI.
+2. Option to edit orders between terminal and handheld UI for server to make edits without affecting terminal UI.  
+
+
+
