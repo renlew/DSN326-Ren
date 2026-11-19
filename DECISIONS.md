@@ -36,6 +36,29 @@
 | What would kill it | It could kill productivity on the line due to cooks having to stop their flow to input ID. |
 
 
+
+## Week 4: Studio A - Direction and Constraint ##
+
+**Part 1: Pick a Direction**
+Hi Marisole,
+
+My choice is to go with the server station because of known device functionality. The server station will have the option to use a keyboard which keeps my decision the same. The expo option wasn't viable because the need to disrupt the flow of the line by inputing an employee ID mid cooking action which isn't a reasonanble ask. It is also unknown if the device has keyboard functionalities. The floor option was only ruled out due to the unknown nature of keyboard functionality. The data doesn't tell me which options would be most obstructed by the need to input an employee ID and manually void food items.
+
+Thanks,
+Ren Lewis
+
+
+**Part 2: answer the Memo**
+Hi Marisole,
+
+The question to be answered is what measures can be implemented to ensure voids, accidental or not, are accoutned for? With your input that the issue may not be what I think it is, I'll divert my attention to the floor layout I originally created. The issue I anticipated was that the floor device may not have the functionality for a keyboard but that may be the issue to resolve. With you out of office, I'll start the build for the floor workflow. I want to delve deeper into the possible functionality for the floor device by adding the void button, keyboard, and two additional windows. When you're back in office there will be something tangible for you to review.
+
+Thanks,
+Ren Lewis
+
+
+
+
 Write it as you go. Reconstructing this in Week 7 produces a file that reads like a case study rather than a record, and the design walkthrough will find the difference.
 
 Full structure is in the **Decision Record** template. The short version:
